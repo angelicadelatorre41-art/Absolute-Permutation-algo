@@ -1,1 +1,1 @@
-# Absolute-Permutation-algo
+# Absolute-Permutation-algo The function builds a permutation where each position differs from its index by exactly k. It alternates between adding and subtracting k every k elements, or returns -1 if no such valid permutation can exist.
